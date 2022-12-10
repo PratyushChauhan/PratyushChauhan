@@ -3,7 +3,7 @@
 - 👀 I’m interested in Mobile development.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Front end projects.
-- 📫 How to reach me : pratyushchauhan62@gmail.com
+- 📫 How to reach me : e21cseu0101@bennett.edu.in
 - 🖇️ LinkedIn : https://www.linkedin.com/in/pratyush-chauhan-14029421b/
 <!---
 PratyushChauhan/PratyushChauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
