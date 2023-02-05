@@ -1,4 +1,3 @@
-[![@cipher_o1's Holopin board](https://holopin.me/cipher_o1)](https://holopin.io/@cipher_o1)
 - 👋 Hi, I’m @PratyushChauhan
 - 👀 I’m interested in Mobile development.
 - 🌱 I’m currently learning Flutter.
