@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PratyushChauhan
-- 👀 I’m interested in Software development.
+- 👀 I’m a flutter developer with an interest in AI.
 - 🌱 I’m currently learning Full Stack web development.
 - 💞️ I’m looking to collaborate on front-end projects.
 - 📫 How to reach me: e21cseu0101@bennett.edu.in
