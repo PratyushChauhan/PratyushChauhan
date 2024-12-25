@@ -8,7 +8,6 @@
 PratyushChauhan/PratyushChauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://myreadme.vercel.app/api/embed/pratyushchauhan?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <br>
 <br>
@@ -18,6 +17,3 @@ You can click the Preview link to take a look at your changes.
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=pratyushchauhan&theme=juicyfresh&no-bg=true" />
 
-<br>
-
-[![Pratyush Chauhan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pratyushchauhan62)](https://leetcode.com/pratyushchauhan62/)
