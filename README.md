@@ -6,12 +6,3 @@
 PratyushChauhan/PratyushChauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<br>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushchauhan&theme=tokyonight" alt="mystreak"/>
-
-<br>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=pratyushchauhan&theme=juicyfresh&no-bg=true" />
-
