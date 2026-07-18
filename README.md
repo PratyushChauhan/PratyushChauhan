@@ -1,6 +1,6 @@
 - Hi, I’m @PratyushChauhan
 - I am a software engineer.
-- How to reach me: pratyushchauhan62@gmail.com
+- How to reach me: book a meeting @ pratyushchauhan.com
 - LinkedIn : https://www.linkedin.com/in/pratyush-chauhan-14029421b/
 <!---
 PratyushChauhan/PratyushChauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
